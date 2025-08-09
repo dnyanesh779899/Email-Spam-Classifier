@@ -1,4 +1,5 @@
-📧 Email Spam Detection – Python, Scikit-Learn & NLP
+📧 Email Spam Detection
+Python, Scikit-Learn & NLP
 This project uses Natural Language Processing (NLP) and Machine Learning to classify emails as spam or ham (not spam) based on their text content. By applying TF-IDF vectorization and a Logistic Regression model, the system learns patterns in email messages and can predict the category for new incoming emails.
 
 📷 Features
